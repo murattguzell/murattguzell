@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter,Kotlin,UI/UX,Mobile Development**
 
-- 📫 How to reach me **murat212952@ogr.duzce.edu.tr**
+- 📫 How to reach me **murat.guzel4004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
